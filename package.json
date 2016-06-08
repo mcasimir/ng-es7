@@ -1,0 +1,27 @@
+{
+  "name": "ng-es7",
+  "version": "1.0.0",
+  "description": "ES7 angular decorators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcasimir/ng-es7.git"
+  },
+  "keywords": [
+    "angular",
+    "decorators",
+    "es7"
+  ],
+  "author": "mcasimir (https://github.com/mcasimir)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcasimir/ng-es7/issues"
+  },
+  "homepage": "https://github.com/mcasimir/ng-es7#readme",
+  "dependencies": {
+    "angular": "^1.5.6"
+  }
+}
